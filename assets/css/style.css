@@ -213,6 +213,12 @@ nav {
     border: 0 none;
   }
 
+  img {
+
+    margin: 1px;
+    margin-bottom: 1px; 
+  }
+
   @media screen and (max-width: 960px)
 
   {
